@@ -2,7 +2,7 @@
 
 My preferred setup for developing Python applications on Windows.
 
-Use the Mambaforge Python distribution because it supports multiple Python versions and it provides an easier wat to install many python packages - from the Conda forge project.
+Use the Mambaforge Python distribution because it supports multiple Python versions and it provides an easier way to install many python packages - from the Conda forge project.
 
 ## Install instructions
 
